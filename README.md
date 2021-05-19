@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **R.**
 
-- ⚡ Fun fact **I like swimming and film festivals, do Cosplay and I'm a Mensan .**
+- ⚡ Fun fact **I go swimming daily, visit film festivals, and I'm a Cosplayer.**
 
 
 <h3 align="left">Languages and Tools:</h3>
