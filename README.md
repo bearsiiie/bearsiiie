@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm bearsiiie!</h1>
 <h3 align="center">Data Scientist with a background in maths.</h3>
 
-- 🔭 I’m currently working on **refining my skills.**
+- 🔭 I’m always working on **refining my skills.**
 
 - 🌱 I’m currently learning **R.**
 
-- ⚡ Fun fact **I go swimming daily, visit film festivals, and I'm a Cosplayer.**
+- ⚡ Fun fact **I swim, visit film festivals and like bears.**
 
 
 <h3 align="left">Languages and Tools:</h3>
